@@ -332,7 +332,19 @@ La API permite recuperar información como:
 - formatos disponibles
 
 ---
-
+## Capturas de código funcionando
+<img src="assets/1.png" alt="Captura de opción incorrecta" width="500">
+<img src="assets/2.png" alt="Captura de opción incorrecta" width="500">
+<img src="assets/3.png" alt="Captura de opción 1" width="500">
+<img src="assets/4.png" alt="Captura de opción 2" width="500">
+<img src="assets/5.png" alt="Captura de opción 2" width="500">
+<img src="assets/6.png" alt="Captura de opción 3" width="500">
+<img src="assets/7.png" alt="Captura de opción 4" width="500">
+<img src="assets/8.png" alt="Captura de opción 4" width="500">
+<img src="assets/9.png" alt="Captura de opción 5" width="500">
+<img src="assets/10.png" alt="Captura de opción 5" width="500">
+<img src="assets/11.png" alt="Captura de opción 5" width="500">
+<img src="assets/12.png" alt="Captura de opción salir" width="500">
 ## Autor
 
 Proyecto desarrollado por **Jorge Márquez** como práctica de backend con Java, Spring Boot, JPA y PostgreSQL.
